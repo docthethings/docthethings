@@ -9,5 +9,3 @@ ___
 - :tv: I'm currently watching: Severence, Shrinking, Snowfall (re-watch before current season)
 - ⚡ Fun fact: I wrote a blog post that has over 2.5 million views. You've probably read it.
 - :link: [GitHub Pages Blog](https://docthethings.github.io)
-
-Quick test to see how committing works from VS Code. 
